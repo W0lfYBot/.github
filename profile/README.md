@@ -12,7 +12,7 @@ At this time we are supporting two languages on our discord server and in our bo
 
 ### 🚀 Features and Functioms
 
-To get a list of our Features select an language: [German](https://github.com/W0lfYBot/.github/features/German.md), [English](https://github.com/W0lfYBot/.github/features/English.md)
+To get a list of our Features select an language: [German](https://github.com/W0lfYBot/.github/blob/master/features/German.md), [English](https://github.com/W0lfYBot/.github/blob/master/features/English.md)
 
 
 ### 👓 Important links
