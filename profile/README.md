@@ -20,5 +20,6 @@ To get a list of our Features select an language: [German](https://github.com/W0
 Discord Server: [Click here](https://discord.gg/k4zNV6YuQc)
 Invite Link: [Click here](https://discord.com/api/oauth2/authorize?client_id=929402750196940840&permissions=8&scope=bot%20applications.commands)
 
+---
 
 <sub>🤫 Psst! Developed with 🖤 by Leon.#0646.</sub>
