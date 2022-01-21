@@ -2,7 +2,7 @@
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-W0lfY is an free Discord Bot with many features. Currently we are developing the bot. If you want to join our staff team as supporter, designer, conceptor or translator please join [our discord server](https://discord.gg/k4zNV6YuQc).
+W0lfY is an free Discord Bot with many features. Currently we are developing the bot. If you want to join our staff team as moderator please join [our discord server](https://discord.gg/dM9XaGVTQj).
 
 
 ### 🌍 An international community
