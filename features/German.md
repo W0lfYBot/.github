@@ -9,6 +9,8 @@
 - GlobalSupportSystem
 - Economy System
 
+Weitere Features können auch von den Nutzern vorgeschlagen werden.
+
 ### Informationsbefehle
 Damit kann man über Server und Benutzer Informationen anzeigen. Darunter fallen Daten wie das Serverbeitrittsdatum oder die Accounterstellung. Auch normale Informationen wie ID, Tag, etc. werden angezeigt. Als weiteren Befehl kann man Informationen über den Bot ausgeben. Dabei werden allgemeine Statistiken und mehr angezeigt.
 
