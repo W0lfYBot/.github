@@ -7,6 +7,7 @@
 - Einstellungen
 - GlobalBanSystem
 - GlobalSupportSystem
+- Economy System
 
 ### Informationsbefehle
 Damit kann man über Server und Benutzer Informationen anzeigen. Darunter fallen Daten wie das Serverbeitrittsdatum oder die Accounterstellung. Auch normale Informationen wie ID, Tag, etc. werden angezeigt. Als weiteren Befehl kann man Informationen über den Bot ausgeben. Dabei werden allgemeine Statistiken und mehr angezeigt.
@@ -33,11 +34,14 @@ Um sich vor Bots zu schützen kann dieses System aktiviert werden. In diesem Ban
 
 Falls man in irgendeinem Bereich egel welchem Hilfe benötigen kann man dieses System nutzen und seine Frage rein stellen. Jeder Benutzer kann dabei alle offenen Supports sehen und Benutzern helfen, und dies serverübergreifend. Der Benutzer welcher Support benötigt bekommt eine Benachrichtigung wenn jemand auf sein Supportfall geantwortet hat. Um dieses System frei von Spamming zu halten kann unser Team Benutzer von diesem System ausschließen oder ggf. auch Antworten löschen.
 
+### Economy System
+Über dieses System kann man sich global Coins verdienen und Produkte im Bot und begrenzt auch extern kaufen. Zum Verdienen von Coins gibt es viele Möglichkeiten. Es gibt Daily-Rewards, Weekly-Rewards, Work-Rewards, Slut Befehl (Auch möglich Coins zu verlieren), Crime Befehl (Auch möglich Coins zu verlieren), Rob Befehl (Einen anderen User ausrauben und ein Teil seiner Coins bekommen. Es ist auch möglich selber dabei Coins zu verlieren), Redeem Codes (Zu Events wird es Codes geben welche dann Coins geben). Dazu ist es auch im Produktshop möglich sich Produkte oder ähnliches von Partnern mit deren Zustimmung zu kaufen. (Beispiel: Ein Produkt welches nur einmal gekauft werden kann und man einen Gutscheincode bekommt, d. h.: nur der schnellste Benutzer bekommt den Code)
+
 ### Zugriff auf Bot und Datenbank
-Zugriff auf die Datenbank sowie auf den Bot haben nicht zwangsläuftig alle Administratoren. Wer auf welche sensiblen Daten Rechte hat kann stetigst im Support angefragt werden. Dazu gilt eine Schweigepflicht seitens der Administration für diesen Typ an Daten.
+Zugriff auf die Datenbank sowie auf den Bot haben nicht zwangsläuftig alle Administratoren. Wer auf welche sensiblen Daten Rechte hat kann stetigst im Support angefragt werden. Dazu gilt eine Schweigepflicht seitens der Administration.
 
 ### Logs
-Unsere Logs sind beschränkt auf Befehl (Ohne Argumente), Ersteller, Datum und Server. Alte Logs werden nach 30 Tagen gelöscht.
+Wir loggen bei uns jediglich Fehler. Dabei wird kein Server, User oder ähnliches gespeichert, nur die Fehlernachricht.
 
-### Partner & Hoster Vertrauen
-Damit wir unsere wenigen Logs bestätigen können, sind wir bereit den Code auf dem Server und in Github in Grenzen preiszugeben.
+### Partner Rechte
+Partner können in Maßen einsicht in den Code bekomm damit diese bestätigen können das wir keine weiteren Logs speichern. Dafür muss die Administration allerdings 100% vertrauen in diesem Partner haben. Dabei zeigen wir Teile des Codes der auf den Servern läuft und welcher bei uns im Git gespeichert ist.
